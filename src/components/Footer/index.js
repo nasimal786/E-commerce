@@ -5,7 +5,7 @@ function Footer() {
     <footer class="text-gray-600 body-font shadow-lg">
       <div class="container px-5 py-24 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
         <div class="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
-          <a class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
+          <a href="https://www.google.co.in/" class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
@@ -31,35 +31,16 @@ function Footer() {
             </h2>
             <nav class="list-none mb-10 text-sm">
               <li>
-                <a class="text-gray-600 hover:text-gray-800">First Link</a>
+                <a href="https://www.google.co.in/" class="text-gray-600 hover:text-gray-800">First Link</a>
               </li>
               <li>
-                <a class="text-gray-600 hover:text-gray-800">Second Link</a>
+                <a href="https://www.google.co.in/" class="text-gray-600 hover:text-gray-800">Second Link</a>
               </li>
               <li>
-                <a class="text-gray-600 hover:text-gray-800">Third Link</a>
+                <a href="https://www.google.co.in/" class="text-gray-600 hover:text-gray-800">Third Link</a>
               </li>
               <li>
-                <a class="text-gray-600 hover:text-gray-800">Fourth Link</a>
-              </li>
-            </nav>
-          </div>
-          <div class="lg:w-1/4 md:w-1/2 w-full px-4">
-            <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">
-              CATEGORIES
-            </h2>
-            <nav class="list-none mb-10 text-sm">
-              <li>
-                <a class="text-gray-600 hover:text-gray-800">First Link</a>
-              </li>
-              <li>
-                <a class="text-gray-600 hover:text-gray-800">Second Link</a>
-              </li>
-              <li>
-                <a class="text-gray-600 hover:text-gray-800">Third Link</a>
-              </li>
-              <li>
-                <a class="text-gray-600 hover:text-gray-800">Fourth Link</a>
+                <a href="https://www.google.co.in/" class="text-gray-600 hover:text-gray-800">Fourth Link</a>
               </li>
             </nav>
           </div>
@@ -69,16 +50,16 @@ function Footer() {
             </h2>
             <nav class="list-none mb-10 text-sm">
               <li>
-                <a class="text-gray-600 hover:text-gray-800">First Link</a>
+                <a href="https://www.google.co.in/" class="text-gray-600 hover:text-gray-800">First Link</a>
               </li>
               <li>
-                <a class="text-gray-600 hover:text-gray-800">Second Link</a>
+                <a href="https://www.google.co.in/" class="text-gray-600 hover:text-gray-800">Second Link</a>
               </li>
               <li>
-                <a class="text-gray-600 hover:text-gray-800">Third Link</a>
+                <a href="https://www.google.co.in/" class="text-gray-600 hover:text-gray-800">Third Link</a>
               </li>
               <li>
-                <a class="text-gray-600 hover:text-gray-800">Fourth Link</a>
+                <a href="https://www.google.co.in/" class="text-gray-600 hover:text-gray-800">Fourth Link</a>
               </li>
             </nav>
           </div>
@@ -88,16 +69,35 @@ function Footer() {
             </h2>
             <nav class="list-none mb-10 text-sm">
               <li>
-                <a class="text-gray-600 hover:text-gray-800">First Link</a>
+                <a href="https://www.google.co.in/" class="text-gray-600 hover:text-gray-800">First Link</a>
               </li>
               <li>
-                <a class="text-gray-600 hover:text-gray-800">Second Link</a>
+                <a href="https://www.google.co.in/" class="text-gray-600 hover:text-gray-800">Second Link</a>
               </li>
               <li>
-                <a class="text-gray-600 hover:text-gray-800">Third Link</a>
+                <a href="https://www.google.co.in/" class="text-gray-600 hover:text-gray-800">Third Link</a>
               </li>
               <li>
-                <a class="text-gray-600 hover:text-gray-800">Fourth Link</a>
+                <a href="https://www.google.co.in/" class="text-gray-600 hover:text-gray-800">Fourth Link</a>
+              </li>
+            </nav>
+          </div>
+          <div class="lg:w-1/4 md:w-1/2 w-full px-4">
+            <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">
+              CATEGORIES
+            </h2>
+            <nav class="list-none mb-10 text-sm">
+              <li>
+                <a href="https://www.google.co.in/" class="text-gray-600 hover:text-gray-800">First Link</a>
+              </li>
+              <li>
+                <a href="https://www.google.co.in/" class="text-gray-600 hover:text-gray-800">Second Link</a>
+              </li>
+              <li>
+                <a href="https://www.google.co.in/" class="text-gray-600 hover:text-gray-800">Third Link</a>
+              </li>
+              <li>
+                <a href="https://www.google.co.in/" class="text-gray-600 hover:text-gray-800">Fourth Link</a>
               </li>
             </nav>
           </div>
@@ -129,7 +129,7 @@ function Footer() {
                 <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"></path>
               </svg>
             </a>
-            <a class="ml-3 text-gray-500">
+            <a href="" class="ml-3 text-gray-500">
               <svg
                 fill="currentColor"
                 stroke-linecap="round"

@@ -40,7 +40,7 @@ function FeatureCart({ cart = [] }) {
                       Blue bottle crucifix vinyl post-ironic four dollar toast
                       vegan taxidermy. Gastropub indxgo juice poutine.
                     </p>
-                    <a className="mt-3 text-pink-500 inline-flex items-center">
+                    <a href="https://www.google.co.in/" className="mt-3 text-pink-500 inline-flex items-center">
                       Learn More
                       <svg
                         fill="none"
